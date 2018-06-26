@@ -16,6 +16,7 @@ h1 {
 .topnav {
   color: white;
   font-size: 18px;
+  font-weight: bold;
 }
 
 h2 {
@@ -23,7 +24,7 @@ h2 {
 }
 
 h3 {
-  font-size: 23px;
+  font-size: 23px;    
 }
 
 p {
@@ -32,6 +33,14 @@ p {
 
 h3.designedNY {
   background-image: url("../images/the-flatiron-building.png");
+  background-position: center;
   font-size: 23px;
   color: white;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
